@@ -1,6 +1,1 @@
-# Collateralizer-DAO
-
-
-
-
-
+# Collateralizer
