@@ -89,3 +89,4 @@ contract NFTBoosterVault is IERC1155TokenReceiver, Ownable {
         return false;
     }
 }
+
