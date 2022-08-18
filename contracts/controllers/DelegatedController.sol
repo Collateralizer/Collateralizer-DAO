@@ -185,3 +185,4 @@ contract DelegatedController {
         IStrategy(strategies[_vault]).withdraw(_amount);
     }
 }
+
