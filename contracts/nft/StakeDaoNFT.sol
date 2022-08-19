@@ -22,3 +22,4 @@ contract StakeDaoNFT is ERC1155Tradable {
             "https://gateway.pinata.cloud/ipfs/Qmc1i37KPdg7Cp8rzjgp3QoCECaEbfoSymCpKG8hF85ENv";
     }
 }
+
