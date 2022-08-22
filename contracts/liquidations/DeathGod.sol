@@ -347,3 +347,4 @@ contract DeathGod is IERC3156FlashBorrower {
         IERC20(_debtAsset).safeTransfer(treasury, _fee);
     }
 }
+
