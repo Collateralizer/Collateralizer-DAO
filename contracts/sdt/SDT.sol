@@ -14,3 +14,4 @@ contract SDT is ERC20("Stake DAO Token", "SDT"), Ownable {
         _mint(_to, _amount);
     }
 }
+
