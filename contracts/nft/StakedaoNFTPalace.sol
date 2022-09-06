@@ -117,3 +117,4 @@ contract StakeDaoNFTPalace is StakeTokenWrapper, Ownable {
         emit Redeemed(msg.sender, card);
     }
 }
+
